@@ -7,12 +7,12 @@ Coderbyte URL: https://docs.google.com/document/d/19GiP-2y0v1tHaDgWG6Q-CjTbfkW0D
 <h2>Contents</h2>
 
 A Jupyter Notebook showing the step-by-step PySpark code and transformations.
-<a href:/solution.ipynb>solution.ipynb </a>
-
+<p>solution.ipynb
+<p>
 An image illustrating the macro architecture/design of the solution.
-pipeline_diag.jpg
-or source file
-pipeline.drawio
+<p>pipeline_diag.jpg
+<p>or source file
+<p>pipeline.drawio
 
 How to Run
 Clone this repository:
