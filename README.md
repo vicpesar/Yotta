@@ -10,7 +10,8 @@ A Jupyter Notebook showing the step-by-step PySpark code and transformations.
 <p>solution.ipynb
 <p>
 An image illustrating the macro architecture/design of the solution.
-<p>[pipeline_diag.jpg](pipeline_diag.jpg)
+<p> <a href=https://github.com/vicpesar/Yotta/blob/main/pipeline.drawio>pipeline_diag.jpg</a>
+
 <p>or source file
 <p>[pipeline.drawio](pipeline.drawio)
   
