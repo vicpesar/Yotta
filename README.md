@@ -10,10 +10,10 @@ A Jupyter Notebook showing the step-by-step PySpark code and transformations.
 <p>solution.ipynb
 <p>
 An image illustrating the macro architecture/design of the solution.
-<p>https://pipeline_diag.jpg
+<p>[pipeline_diag.jpg](pipeline_diag.jpg)
 <p>or source file
-<p>pipeline.drawio
-
+<p>[pipeline.drawio](pipeline.drawio)
+  
 How to Run
 Clone this repository:
 
