@@ -17,8 +17,8 @@ pipeline.drawio
 How to Run
 Clone this repository:
 
-git clone https://github.com/vicpesar/Yotta.git
-cd yotta-solution
+git clone https://github.com/vicpesar/Yotta.git <p>
+cd yotta-solution <p>
 Open the site https://www.sparkplayground.com/pyspark-online-compiler
 
 Launch the spark_solution.ipynb and run the cells to see the code in action.
